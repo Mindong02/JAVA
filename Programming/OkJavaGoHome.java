@@ -19,7 +19,9 @@ public class OkJavaGoHome {
 		hallLamp.on();
 		
 		Lighting floorLamp = new Lighting("JAVA APT 507 / Hall Lamp");
-		floorLamp.on();		
+		floorLamp.on();
+		
+		
 	}
 
 }
